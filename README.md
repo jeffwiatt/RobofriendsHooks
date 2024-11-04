@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### 'npm install'
+### `npm install`
 
 Run install first before anything else.  This will ensure all the packages that this project requires are downloaded into your node_modules folder.  Without doing this, other commands below will not work.
 
